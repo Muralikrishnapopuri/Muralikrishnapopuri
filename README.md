@@ -1,3 +1,4 @@
+![logo](https://github.com/Muralikrishnapopuri/assets/blob/main/Bannerfial%5B1%5D.png)
 <h1 align="center">Hi Coders👋,I'm Murali krishna</h1>
 <h3 align="center">An Indian UI Full-Stack Developer</h3>
 
