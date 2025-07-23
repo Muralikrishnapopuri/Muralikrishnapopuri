@@ -4,21 +4,51 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muralikrishnapopuri&label=Profile%20views&color=0e75b6&style=flat" alt="muralikrishnapopuri" /> </p>
 
-- 🔭 My Current position is - [Preparing for Interviews ( Fresher ) .Visit my latest Mern-Stack Project](https://github.com/Muralikrishnapopuri/Social-Media-And-Chat-Application-with-MongoDB-Socket.io)
+Got it! I'll update the description to feature your main project **ZestChat** first, then mention the MERN stack project afterward. Here's the revised version:
 
-- 🌱 I’m currently learning **React Native , Adobe XD and other AI tools**
+---
 
-- 🤝 I can help you in - [Mern stack projects and an amazing design skill in figma along with photoshop](https://www.figma.com/proto/lVX3UGZv9IW9pvpYbYfDIA/Krish-Project?page-id=0%3A1&node-id=4-3&viewport=-572%2C218%2C0.13&t=1iwIXVBzRE9r5leM-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=4%3A3&disable-default-keyboard-nav=1)
+### 🔭 Current Status
 
-- 👨‍💻 All of my projects are available at [https://murali-krishna-portfolio.netlify.app/](https://murali-krishna-portfolio.netlify.app/)
+Preparing for Interviews (Fresher)
+Check out my main project: [ZestChat – Real-time Chat Application](http://zestchat.vercel.app)
+Also explore my MERN Stack project: [Social Media & Chat App with MongoDB & Socket.io](https://github.com/Muralikrishnapopuri/Social-Media-And-Chat-Application-with-MongoDB-Socket.io)
 
-- 💬 Ask me about **Frontend as well as Backend projects and Ui/Ux Design Projects with figma**
+### 🌱 Currently Learning
 
-- 📫 How to reach me **popurimurali16@gmail.com**
+React Native, Adobe XD, AI tools, and expanding my backend skills with PHP, SQL, and PostgreSQL
 
-- 📄 Know about my experiences [https://online.flippingbook.com/view/596335034/](https://online.flippingbook.com/view/596335034/)
+### 🤝 How I Can Help
 
-- ⚡ Fun fact **if a coder take a decision to finish a project then he can stop toilet himself also 🤣. - relatable ...?**
+* MERN Stack development
+* Backend development with PHP, SQL, and PostgreSQL
+* UI/UX design with Figma and Photoshop
+  Explore my design portfolio here: [Figma Projects](https://www.figma.com/proto/lVX3UGZv9IW9pvpYbYfDIA/Krish-Project?page-id=0%3A1&node-id=4-3&viewport=-572%2C218%2C0.13&t=1iwIXVBzRE9r5leM-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=4%3A3&disable-default-keyboard-nav=1)
+
+### 👨‍💻 Portfolio
+
+See all my projects: [murali-krishna-portfolio.netlify.app](https://murali-krishna-portfolio.netlify.app/)
+
+### 💬 Ask Me About
+
+Frontend and Backend projects, UI/UX design, and databases
+
+### 📫 Contact
+
+[popurimurali16@gmail.com](mailto:popurimurali16@gmail.com)
+
+### 📄 Experience
+
+Explore my professional experiences here: [Online Resume](https://online.flippingbook.com/view/596335034/)
+
+### ⚡ Fun Fact
+
+If a coder decides to finish a project, they can even hold their bladder! 🤣 Relatable?
+
+---
+
+Would you like me to help make the fun fact sound a bit more polished, or keep it casual?
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
