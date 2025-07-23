@@ -10,7 +10,6 @@ Got it! I'll update the description to feature your main project **ZestChat** fi
 
 ### 🔭 Current Status
 
-Preparing for Interviews (Fresher)
 Check out my main project: [ZestChat – Real-time Chat Application](http://zestchat.vercel.app)
 Also explore my MERN Stack project: [Social Media & Chat App with MongoDB & Socket.io](https://github.com/Muralikrishnapopuri/Social-Media-And-Chat-Application-with-MongoDB-Socket.io)
 
