@@ -213,7 +213,7 @@ const murali = {
     <img src="https://img.shields.io/badge/Email-Say%20Hello-C0392B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="tel:+919347796811">
+  <a href="tel:+91">
     <img src="https://img.shields.io/badge/Phone-%2B91%209347796811-555555?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
