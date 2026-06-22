@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20!&descAlignY=55&descAlign=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Murali%20Krishna&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Real-Time%20Systems%20%7C%20F%26B%20Tech&descAlignY=55&descAlign=50" alt="header">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="120">
-  <h1>Hi there, I'm <a href="https://krish-portfolio.vercel.app/" target="_blank">Murali Krishna</a> 👋</h1>
-  
   <a href="https://krish-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=27F7D5&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+Next.js;Building+Scalable+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27F7D5&center=true&vCenter=true&width=600&lines=Building+Real-Time+Web+Systems;React.js+%7C+Node.js+%7C+Next.js+%7C+PHP;Shipping+RestoSoft+%E2%80%94+F%26B+ERP+Platform;Currently+Diving+Into+System+Design" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,15 +15,15 @@
 </div>
 
 <p align="center">
-  Results-driven <b>Full-Stack Developer</b> with professional experience building scalable, real-time web applications for the F&B industry. Proficient in a hybrid tech stack spanning backend systems, integrating payment gateways, and delivering polished user interfaces.
+  Full-stack developer who builds <b>scalable, real-time web applications</b> for the F&B industry — from billing engines to multi-app ecosystems used by live restaurant operations.
 </p>
 
 <p align="center">
-  🔭 I’m currently working as a <b>Full-Stack Developer</b> at <b>YoungMinds Technology Solutions</b><br>
-  🌱 I’m currently exploring <b>Advanced System Design & High-Performance Backend Systems</b><br>
-  👨‍💻 Check out my latest projects on my <b><a href="https://krish-portfolio.vercel.app/">Portfolio!</a></b><br>
-  💬 Ask me about <b>React.js, Node.js, Express, Next.js, PHP, SQL, and MongoDB</b><br>
-  📫 Reach me out securely via email: <b><a href="mailto:popurimurali16@gmail.com">popurimurali16@gmail.com</a></b>
+  🔭 Currently building: <b>RestoSoft</b> — a multi-app restaurant ERP (Admin · Cashier · Waiter · Digital Menu)<br>
+  🌱 Currently exploring: <b>Advanced System Design & High-Performance Backend Architecture</b><br>
+  👨‍💻 Latest work on my <b><a href="https://krish-portfolio.vercel.app/">Portfolio →</a></b><br>
+  💬 Ask me about: <b>React.js, Node.js, Express, Next.js, PHP, SQL, MongoDB</b><br>
+  📫 Reach me: <b><a href="mailto:popurimurali16@gmail.com">popurimurali16@gmail.com</a></b>
 </p>
 
 ***
@@ -36,15 +33,15 @@
 </div>
 
 <p align="center">
-  <i>Technologies & tools I mostly work with</i>
+  <i>Technologies & tools I build with</i>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="Programming Languages" /><br><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" alt="Frontend Frameworks" /><br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,mongoose" alt="Backend & Databases" /><br><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools & Deployment" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="Languages" /><br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" alt="Frontend" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,mongoose" alt="Backend" /><br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Tools" />
   </a>
 </p>
 
@@ -57,14 +54,15 @@
       <h4>YoungMinds Technology Solutions</h4>
       <p><i>Full-Stack Developer | Mar 2025 – Present</i></p>
       <ul>
-        <li><b>RestoSoft (F&B ERP)</b>: Built a comprehensive multi-application ecosystem including Admin, Cashier, Waiter, and Digital Menu apps.</li>
-        <li>Engineered a high-performance billing engine using <b>Long Polling</b> for real-time synchronization.</li>
+        <li>Building <b>RestoSoft (F&B ERP)</b> — a multi-application ecosystem spanning Admin, Cashier, Waiter, and Digital Menu apps.</li>
+        <li>Engineered a real-time billing engine using <b>Long Polling</b> for live order sync across devices.</li>
+        <li>Integrated payment gateways and third-party delivery platforms (Swiggy, Zomato) into the core POS flow.</li>
       </ul>
       <h4>Codtech & Chegg India</h4>
-      <p><i>Intern / SME</i></p>
+      <p><i>Intern / Subject Matter Expert</i></p>
       <ul>
-        <li>Built dynamic full-stack applications solving complex systems.</li>
-        <li><a href="https://chegg-certificates--teal.vercel.app/" target="_blank">Chegg Certificate</a> | <a href="https://interrn.netlify.app/" target="_blank">Codtech Certificate</a></li>
+        <li>Built and shipped dynamic full-stack applications solving real-world systems problems.</li>
+        <li><a href="https://chegg-certificates--teal.vercel.app/" target="_blank">Chegg Certificate</a> · <a href="https://interrn.netlify.app/" target="_blank">Codtech Certificate</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -72,16 +70,16 @@
       <ul>
         <li>
           <img src="https://cdn-icons-png.flaticon.com/16/3208/3208726.png" height="16"> <b><a href="https://pixelpolish.vercel.app/" target="_blank">Pixel Polish</a></b>
-          <br/>Online photo editor with real-time image filters (React.js, Multer, Cloudinary).
+          <br/>Online photo editor with real-time image filters. React.js, Multer, Cloudinary.
         </li>
         <br/>
         <li>
-          <img src="https://cdn-icons-png.flaticon.com/16/3208/3208726.png" height="16">  <b><a href="https://social-media-chat.vercel.app/" target="_blank">Real-Time Social Media App</a></b>
-          <br/>Full-stack platform enabling real-time user interaction.
+          <img src="https://cdn-icons-png.flaticon.com/16/3208/3208726.png" height="16"> <b><a href="https://social-media-chat.vercel.app/" target="_blank">Real-Time Social Media App</a></b>
+          <br/>Full-stack platform enabling live, real-time user interaction.
         </li>
         <br/>
         <li>
-          <img src="https://cdn-icons-png.flaticon.com/16/3208/3208726.png" height="16">  <b><a href="https://employee-management-system-krish.netlify.app/" target="_blank">Employee System</a></b>
+          <img src="https://cdn-icons-png.flaticon.com/16/3208/3208726.png" height="16"> <b><a href="https://employee-management-system-krish.netlify.app/" target="_blank">Employee Management System</a></b>
           <br/>CRUD application with REST API integration and Formik validation.
         </li>
       </ul>
@@ -103,10 +101,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muralikrishnapopuri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muralikrishnapopuri&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</div>
 
 ***
 
