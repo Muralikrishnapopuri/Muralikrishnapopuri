@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=MURALI+KRISHNA+POPURI;Full+Stack+Web+%26+Desktop+Engineer;Open+Source+Enthusiast;Problem+Solver;Code+Architect;2.5%2B+Years+Professional+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=MURALI+KRISHNA+POPURI;Full+Stack+Web+%26+Desktop+Engineer;Offline-First+POS+Architect;Open+Source+Enthusiast;2%2B+Years+Professional+Experience)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Muralikrishnapopuri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -9,6 +9,8 @@
 <!-- SOCIAL BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/Muralikrishnapopuri?logo=GitHub&style=for-the-badge&color=00D4FF&labelColor=0D1117)](https://github.com/Muralikrishnapopuri)
 [![GitHub stars](https://img.shields.io/github/stars/Muralikrishnapopuri?logo=GitHub&style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/Muralikrishnapopuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murali-krishna-popuri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://murali-portfolio-website.vercel.app)
 
 </div>
 
@@ -33,13 +35,13 @@
 
 ### 🧑‍💻 Who Am I?
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=00D4FF&background=0D1117&center=false&vCenter=true&multiline=true&width=440&height=150&lines=name%3A+Murali+Krishna+Popuri;role%3A+Full-Stack+Web+%26+Desktop+Engineer;experience%3A+2.5%2B+Years+Professional;location%3A+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3;focus%3A+Building+offline-first+architectures;motto%3A+I+turn+coffee+into+clean+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=00D4FF&background=0D1117&center=false&vCenter=true&multiline=true&width=440&height=150&lines=name%3A+Murali+Krishna+Popuri;role%3A+Full-Stack+Web+%26+Desktop+Engineer;experience%3A+2%2B+Years+Professional;location%3A+Vijayawada%2C+Andhra+Pradesh+%F0%9F%87%AE%F0%9F%87%B3;focus%3A+Offline-first+POS+%26+sync+systems;motto%3A+I+turn+coffee+into+clean+code" alt="Typing SVG" />
 
 ### 🎯 Core Philosophy
 
 | Principle | Description |
 |-----------|-------------|
-| 🔒 **Total Ownership** | From database design to frontend animations & local print drivers |
+| 🔒 **Total Ownership** | From LAN sync protocols to frontend animations & silent print drivers |
 | 🛡️ **High Reliability** | Resilient code that runs even during total network failure |
 | 🐛 **Proactive Debugging** | Clean, type-safe, self-documenting codebases |
 
@@ -55,10 +57,10 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muralikrishna-popuri-90b112239)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muralikrishnaorg)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://online.flippingbook.com/view/596335034)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murali-krishna-popuri)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popurimurali16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://murali-portfolio-website.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muralikrishnapopuri)
 
 </td>
 </tr>
@@ -79,22 +81,25 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚛️ Frontend & Frameworks
+### ⚛️ Frontend & Desktop
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-### 🔧 Backend & Runtime
+### 🔧 Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🛠️ Tools & Ecosystem
@@ -102,6 +107,116 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=60&section=header&text=Work%20Timeline&fontSize=28&fontColor=00D4FF&animation=twinkling&fontAlignY=70" alt="Experience Header" />
+</div>
+
+<table>
+<tr>
+<td width="100%">
+
+**YoungMinds Technology Solutions Pvt Ltd** · Full-Stack Developer · Feb 2025 – Present
+[![Live](https://img.shields.io/badge/biz.restosoftindia.in-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://biz.restosoftindia.in)
+
+`RestoSoft` — offline-first restaurant ERP/POS spanning Fine Dine, QSR, Takeaway & Home Delivery
+- Built an offline Windows POS in Electron + React/TS + Node/Express + SQLite — full billing/KOT with zero internet
+- Designed a LAN architecture: a main computer as local server syncing cashier terminals & waiter app in real time
+- Built a bi-directional cloud sync engine with auto retry-on-failure and no duplicate records
+- Shipped 4 role-based web apps (Admin, Cashier, Waiter, Digital Menu) with live order updates, AWS S3 uploads, and WhatsApp promo/OTP integration
+
+<br/>
+
+**Codtech IT Solutions Pvt Ltd** · Full-Stack Developer Intern · Sep 2024 – Oct 2024
+[![Live](https://img.shields.io/badge/interrn.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://interrn.netlify.app)
+- Built a responsive beverage e-commerce app with React, Node.js, Express, MongoDB & REST APIs
+- Collaborated in an Agile team on unit tests, PR reviews, and Git-based feature coordination
+
+<br/>
+
+**Chegg India Pvt Ltd** · Subject Matter Expert · Oct 2022 – Jan 2023
+[![Live](https://img.shields.io/badge/chegg--certificates-01A758?style=flat-square&logo=chegg&logoColor=white)](https://chegg-certificates--teal.vercel.app)
+- Resolved 150+ complex CS/web-dev queries with detailed documentation and verified code snippets
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=600&color=7B2FF7&center=true&vCenter=true&width=600&lines=Things+I've+Built+%26+Shipped" alt="Projects Header" />
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Zestchat
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+Real-time chat app with a relational PostgreSQL schema, Cloudinary media storage, and auto-expiring guest sessions.
+
+🔹 Cloudinary + Sharp image optimization for smaller payloads
+🔹 Node-Cron jobs auto-clean expired sessions/users
+🔹 Redux-powered live messaging with GIF & emoji support
+
+[![Live](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://zestchat.vercel.app)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muralikrishnapopuri)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Pixel Polish
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Canvas](https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+Browser-based photo editor with real-time client-side filters rendered in under 50ms via HTML5 Canvas.
+
+🔹 Live brightness/contrast filters, zero server round-trip
+🔹 Multer + Cloudinary backend for fast, secure uploads
+🔹 Lightweight Express API for image processing
+
+[![Live](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://pixelpolish.vercel.app)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muralikrishnapopuri)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🖥️ RestoSoft — Offline Desktop POS
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+A full restaurant ERP/POS ecosystem — offline Electron POS + 4 role-based web apps (Admin, Cashier, Waiter, Digital Menu) with LAN sync and cloud backup.
+
+🔹 Zero-downtime billing & KOT, even without internet
+🔹 Real-time LAN sync between terminals + bi-directional cloud sync
+🔹 Silent thermal printing, bulk menu upload, daily sales reports
+
+[![Live](https://img.shields.io/badge/Live%20Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biz.restosoftindia.in)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -128,92 +243,17 @@
 <!-- TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=Muralikrishnapopuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muralikrishnapopuri&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=7B2FF7&point=FFD700&hide_border=true" alt="Activity Graph" />
+
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎓 Education
 
 <div align="center">
-
-<!-- PROJECT 1 -->
-<table>
-<tr>
-<td width="50%">
-
-### 📦 Project Name 1
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-> 📝 *Replace this with your actual project description*
-
-🔹 Feature 1 description  
-🔹 Feature 2 description  
-🔹 Feature 3 description
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muralikrishnapopuri)
-[![Live](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-link.com)
-
-</td>
-<td width="50%">
-
-### 📦 Project Name 2
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-> 📝 *Replace this with your actual project description*
-
-🔹 Feature 1 description  
-🔹 Feature 2 description  
-🔹 Feature 3 description
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muralikrishnapopuri)
-[![Live](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-link.com)
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 3 & 4 -->
-<table>
-<tr>
-<td width="50%">
-
-### 📦 Project Name 3
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-> 📝 *Replace this with your actual project description*
-
-🔹 Feature 1 description  
-🔹 Feature 2 description  
-🔹 Feature 3 description
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muralikrishnapopuri)
-[![Live](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-link.com)
-
-</td>
-<td width="50%">
-
-### 📦 Project Name 4
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-> 📝 *Replace this with your actual project description*
-
-🔹 Feature 1 description  
-🔹 Feature 2 description  
-🔹 Feature 3 description
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muralikrishnapopuri)
-[![Live](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-project-link.com)
-
-</td>
-</tr>
-</table>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1a1f2e&height=90&section=header&text=Amrita%20Sai%20Institute%20of%20Science%20%26%20Technology&fontSize=18&fontColor=00D4FF&animation=fadeIn&desc=B.Tech%20in%20Computer%20Science%20%C2%B7%20Vijayawada%2C%20India%20%C2%B7%202019%20%E2%80%93%202023%20%C2%B7%20CGPA%3A%207.35&descAlignY=75&descSize=13" alt="Education" />
 </div>
 
 ---
