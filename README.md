@@ -33,14 +33,7 @@
 
 ### 🧑‍💻 Who Am I?
 
-```yaml
-name: Murali Krishna Popuri
-role: Full-Stack Web & Desktop Engineer
-experience: 2.5+ Years Professional
-location: Hyderabad, India 🇮🇳
-focus: Building robust offline-first software architectures
-motto: "I turn coffee into clean code ☕➡️💻"
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=00D4FF&background=0D1117&center=false&vCenter=true&multiline=true&width=440&height=150&lines=name%3A+Murali+Krishna+Popuri;role%3A+Full-Stack+Web+%26+Desktop+Engineer;experience%3A+2.5%2B+Years+Professional;location%3A+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3;focus%3A+Building+offline-first+architectures;motto%3A+I+turn+coffee+into+clean+code" alt="Typing SVG" />
 
 ### 🎯 Core Philosophy
 
